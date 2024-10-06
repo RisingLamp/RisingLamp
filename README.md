@@ -39,11 +39,35 @@
 
 ---
 
-## 🌱 What I’m Currently Learning
+## 🌱 Currently Learning
 <div align="center">
   <img src="https://img.shields.io/badge/Exploring%20IoT-%230092CB.svg?&style=for-the-badge" alt="IoT Badge" style="margin: 10px;"/>
   <img src="https://img.shields.io/badge/Advanced%20Cybersecurity-%23434343.svg?&style=for-the-badge" alt="Cybersecurity Badge" style="margin: 10px;"/>
   <img src="https://img.shields.io/badge/Backend%20with%20Node.js-%23339933.svg?&style=for-the-badge" alt="Node.js Backend Badge" style="margin: 10px;"/>
+</div>
+
+---
+
+## 🔗 Links & Resources
+- **Personal Portfolio:** [risinglamp.dev](https://risinglamp.dev)
+- **LinkedIn:** [linkedin.com/in/risinglamp](https://www.linkedin.com/in/risinglamp)
+- **GitHub Repositories:** [github.com/RisingLamp](https://github.com/RisingLamp)
+
+---
+
+## 📜 Certifications
+- **Certified Ethical Hacker (CEH)** - [EC-Council](https://www.eccouncil.org)
+- **Networking Essentials** - Cisco Networking Academy
+- **Java Programming and Software Engineering** - Coursera (Duke University)
+
+---
+
+## 💼 Favorite Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%230078D7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" alt="Postman" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="margin: 5px;">
 </div>
 
 ---
@@ -56,7 +80,7 @@
 
 ---
 
-## 📫 Connect with Me
+## 📫 How to Reach Me
 <p align="center">
   <a href="https://www.linkedin.com/in/risinglamp" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin: 10px;">
@@ -64,14 +88,17 @@
   <a href="mailto:uday.patil.st@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" style="margin: 10px;">
   </a>
+  <a href="https://github.com/RisingLamp" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" style="margin: 10px;">
+  </a>
 </p>
 
 ---
 
 ## 📜 Featured Projects
 <p align="center" style="font-size: 20px;">
-  🚀 **[CLOACK VPN](#)** - A VPN app aimed at providing top-notch privacy and security.<br>
-  📇 **[Phone Book Application](#)** - A Java-based app with features like contact management and persistent data storage.
+  🚀 **[CLOACK VPN](https://github.com/RisingLamp/CLOACK-VPN)** - A VPN app aimed at providing top-notch privacy and security.<br>
+  📇 **[Phone Book Application](https://github.com/RisingLamp/Phone-Book-App)** - A Java-based app with features like contact management and persistent data storage.
 </p>
 
 ---
