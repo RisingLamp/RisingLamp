@@ -51,7 +51,8 @@
 
 ## 🔗 Links & Resources
 <div align="left" style="font-family: 'Alata', sans-serif;">
-  - **Personal Portfolio:** [risinglamp.dev](https://risinglamp.dev)  
+  
+  - **Personal Portfolio:** [risinglamp.dev](https://risinglamp.dev) 
   - **LinkedIn:** [linkedin.com/in/risinglamp](https://www.linkedin.com/in/risinglamp)  
   - **GitHub Repositories:** [github.com/RisingLamp](https://github.com/RisingLamp)  
 </div>
@@ -60,6 +61,7 @@
 
 ## 📜 Certifications
 <div align="left" style="font-family: 'Alata', sans-serif;">
+  
   - **Certified Ethical Hacker (CEH)** - [EC-Council](https://www.eccouncil.org)  
   - **Networking Essentials** - Cisco Networking Academy  
   - **Java Programming and Software Engineering** - Coursera (Duke University)  
@@ -102,6 +104,7 @@
 
 ## 📜 Featured Projects
 <div align="left" style="font-family: 'Alata', sans-serif;">
+  
   🚀 <a href="https://github.com/RisingLamp/CLOACK-VPN">**CLOACK VPN**</a> - A VPN app for privacy and security.<br>
   📇 <a href="https://github.com/RisingLamp/Phone-Book-App">**Phone Book Application**</a> - A Java-based app with contact management.<br>
   🔒 <a href="https://github.com/RisingLamp/CyberSafe">**CyberSafe**</a> - A secure password storage and management web app.<br>
