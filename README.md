@@ -52,7 +52,7 @@
 ## 🔗 Links & Resources
 <div align="left" style="font-family: 'Alata', sans-serif;">
   
-  - **Personal Portfolio:** [risinglamp.dev](https://risinglamp.taplink.ws) 
+  - **Personal Portfolio:** [Rising](https://risinglamp.taplink.ws) 
   - **LinkedIn:** [linkedin.com/in/risinglamp](https://www.linkedin.com/in/risinglamp)  
   - **GitHub Repositories:** [github.com/RisingLamp](https://github.com/RisingLamp)  
 </div>
